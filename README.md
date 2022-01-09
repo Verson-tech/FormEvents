@@ -13,6 +13,8 @@
 
 ![dev tools console](./Capture5.PNG)
 
+4) Process of removing the li
 
+![dev tools console](./Capture8.PNG)
 
 ## [Click for the dev tools console](https://verson-tech.github.io/FormEvents/)
