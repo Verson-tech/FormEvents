@@ -13,8 +13,14 @@
 
 ![dev tools console](./Capture5.PNG)
 
-4) Process of removing the li
+4) Process of removing the li:
 
 ![dev tools console](./Capture8.PNG)
+
+When we expand on PointerEvent, we will find 'target':
+
+![dev tools console](./Capture9.PNG)
+
+
 
 ## [Click for the dev tools console](https://verson-tech.github.io/FormEvents/)
