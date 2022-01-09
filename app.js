@@ -22,6 +22,7 @@ const addTweet = (username, tweet) => {
 };
 
 tweetsContainer.addEventListener("click", function (e) {
-  console.log("Click on <ul>");
-  console.log(e);
+// e.target.remove()
+// OR
+e.target.nodeName === 'LI' && e.target.remove();
 });
