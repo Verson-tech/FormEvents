@@ -22,3 +22,10 @@ const addTweet = (username, tweet) => {
 }
 
 
+const allLi = document.querySelectorAll('li');
+for (let li of allLi){
+    li.addEventListener('click',function(){
+        li.remove();
+    })
+}
+
